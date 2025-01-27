@@ -1,0 +1,347 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.24f1 (11fa355cd605) revision 1178165'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 32649 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/DJ_03/Documents/University/Git/Unity-Wiimote
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53344
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/DJ_03/Documents/University/Git/Unity-Wiimote
+C:/Users/DJ_03/Documents/University/Git/Unity-Wiimote
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4908]  Target information:
+
+Player connection [4908]  * "[IP] 192.168.1.47 [Port] 0 [Flags] 2 [Guid] 1850343830 [EditorId] 1850343830 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9N9UM8O) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4908] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [4908] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/DJ_03/Documents/University/Git/Unity-Wiimote/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:   NVIDIA
+    VRAM:     8018 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005064 seconds.
+- Loaded All Assemblies, in  0.490 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.381 seconds
+Domain Reload Profiling: 866ms
+	BeginReloadAssembly (171ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (185ms)
+		LoadAssemblies (168ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (179ms)
+				TypeCache.ScanAssembly (164ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (381ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (336ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (205ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.664 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.577 seconds
+Domain Reload Profiling: 1237ms
+	BeginReloadAssembly (551ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (13ms)
+		LoadAssemblies (143ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (578ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (279ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (22ms)
+			ProcessInitializeOnLoadAttributes (140ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (78ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 85 unused Assets / (73.6 KB). Loaded Objects now: 679.
+Memory consumption went from 83.2 MB to 83.1 MB.
+Total: 4.163100 ms (FindLiveObjects: 0.086900 ms CreateObjectMapping: 0.009500 ms MarkObjects: 3.960400 ms  DeleteObjects: 0.105200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 982030.120507 seconds.
+  path: Assets/Scene.unity
+  artifactKey: Guid(0f5ff05b622631a4d89d5958185188d1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scene.unity using Guid(0f5ff05b622631a4d89d5958185188d1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4993749cce310644f710e343b8c9162') in 0.0973141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/wiimote.prefab
+  artifactKey: Guid(6c509caf9128fe74ea7b4ed653760824) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/wiimote.prefab using Guid(6c509caf9128fe74ea7b4ed653760824) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '54de5913fb2d0c7021f85d9ecca5f68c') in 0.0768439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Wiimote/Scripts/WiimoteData/MotionPlusData.cs
+  artifactKey: Guid(fcbc9f7491037954684ef4ecd777d906) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/WiimoteData/MotionPlusData.cs using Guid(fcbc9f7491037954684ef4ecd777d906) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a68031f09e028f1b15fd61b4a8ea873e') in 0.0121913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/ExtDataDemo.cs
+  artifactKey: Guid(793d39ffe54174864a29466ded9046f6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/ExtDataDemo.cs using Guid(793d39ffe54174864a29466ded9046f6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bd649b91d77a27cf027a204850521c98') in 0.011791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Art/Materials/Material__17.mat
+  artifactKey: Guid(7f5a93f30457ec64b88a1586363ee9a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/Material__17.mat using Guid(7f5a93f30457ec64b88a1586363ee9a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '36ead3e8ca995c3b0d066899d6f777e8') in 0.0316009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Wiimote/Scripts/Internal/RegisterReadData.cs
+  artifactKey: Guid(17d61abebb90a8c49ae13f8559b942e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/Internal/RegisterReadData.cs using Guid(17d61abebb90a8c49ae13f8559b942e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ed99b9408a7c2d2adddbd88f6558b17f') in 0.0127742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Wiimote/Scripts/WiimoteData/IRData.cs
+  artifactKey: Guid(8ce4c54d3c40d3246b360c5aa8314559) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/WiimoteData/IRData.cs using Guid(8ce4c54d3c40d3246b360c5aa8314559) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5f650c75027c468bbebcbf314149e302') in 0.0139324 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Art/Materials/Material__13.mat
+  artifactKey: Guid(aa2d45baa5ea28d4394479d343e39742) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/Material__13.mat using Guid(aa2d45baa5ea28d4394479d343e39742) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bddc95a577890d868456f9220584208a') in 0.0149274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Art/Materials/Selected.mat
+  artifactKey: Guid(832befe1e9a3762478f3d5b0524956cd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/Selected.mat using Guid(832befe1e9a3762478f3d5b0524956cd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e72929d7bfc788e9bfe844169b59a32') in 0.0462986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Wiimote/Plugins/win32/hidapi.dll
+  artifactKey: Guid(ee0f84db49b44d7448a02c2d48ba6060) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Plugins/win32/hidapi.dll using Guid(ee0f84db49b44d7448a02c2d48ba6060) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b8c0266f4b072c1b737efe51ea083c10') in 0.0163259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Art/Materials/Material__15.mat
+  artifactKey: Guid(22b2ca92977389847a79dab135a527e4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/Material__15.mat using Guid(22b2ca92977389847a79dab135a527e4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ad8a7dc2706fe65468b7e8d5c51c1c7') in 0.0144972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Art/Materials/Material__11.mat
+  artifactKey: Guid(103d035355f4119499ef3bfdb3a38b53) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/Material__11.mat using Guid(103d035355f4119499ef3bfdb3a38b53) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '73fcb5e738a1e756577fa61d1a5e6dd0') in 0.0145799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Art/Materials/Material__16.mat
+  artifactKey: Guid(0f30936da9e047448be564e8eef93ff2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/Material__16.mat using Guid(0f30936da9e047448be564e8eef93ff2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8104a8c37406a5d1270224ef9d909681') in 0.0145964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Scripts/WiimoteDemo.cs
+  artifactKey: Guid(b693730cc6aecaf4a98abfa6e2c25d6a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/WiimoteDemo.cs using Guid(b693730cc6aecaf4a98abfa6e2c25d6a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e5d56723a08ffd244237b2702be677b5') in 0.0124376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Wiimote/Scripts/Wiimote.cs
+  artifactKey: Guid(5463cc53d9e56334aabf1ad0fe825524) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/Wiimote.cs using Guid(5463cc53d9e56334aabf1ad0fe825524) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e5923d60d5c2cf492d7f26019b67700') in 0.0124254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Wiimote/Scripts/WiimoteData/WiimoteData.cs
+  artifactKey: Guid(60f7bcb0e4ca5984ca1186bd5c8af7db) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/WiimoteData/WiimoteData.cs using Guid(60f7bcb0e4ca5984ca1186bd5c8af7db) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd78447c7142f31659271d8ee97642536') in 0.0125218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Wiimote/Scripts/mainpage.dox
+  artifactKey: Guid(a40ef468a9dd442b481fbb60d74816e0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/mainpage.dox using Guid(a40ef468a9dd442b481fbb60d74816e0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b1ea3e3c18646f7d02dee8a8dfbab400') in 0.0123472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Art/Materials/wiimote.mat
+  artifactKey: Guid(45ba3f0db9511724fb1810409e9ca019) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Art/Materials/wiimote.mat using Guid(45ba3f0db9511724fb1810409e9ca019) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f3c6dde78c44df13e9aa9f3714ea0651') in 0.020643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Wiimote/Scripts/WiimoteData/ButtonData.cs
+  artifactKey: Guid(48c4286a80d7a3d4692e351e811cf7a0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/WiimoteData/ButtonData.cs using Guid(48c4286a80d7a3d4692e351e811cf7a0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '23befedb017992987b289ac8a514e67a') in 0.0130938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Wiimote/Scripts/Internal/ReadOnlyArray.cs
+  artifactKey: Guid(767623456fff5ce4e81b8259d0b3ceb9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Wiimote/Scripts/Internal/ReadOnlyArray.cs using Guid(767623456fff5ce4e81b8259d0b3ceb9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '30302ac15ab6334645806c9f6c5d3088') in 0.0123928 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
